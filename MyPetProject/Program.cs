@@ -5,12 +5,12 @@ namespace MyPetProject
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
             var app = builder.Build();
 
-            app.MapGet("/", () => 
-            {
-                return "Test";
-            });
+            app.UseStaticFiles();
+
+            app.MapGet("/", () => { return Results.Redirect("/html/main.html"); });
 
             app.Run();
         }

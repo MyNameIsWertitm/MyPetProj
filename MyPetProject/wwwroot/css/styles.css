@@ -1,0 +1,8 @@
+﻿.left {
+    width: 200px;
+    height: 900px;
+    background-color: cadetblue;
+    
+    border: solid 1px black;
+    float: left;
+}

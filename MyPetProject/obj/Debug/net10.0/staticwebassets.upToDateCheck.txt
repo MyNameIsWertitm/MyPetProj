@@ -1,0 +1,7 @@
+wwwroot\html\info.html
+wwwroot\html\main.html
+wwwroot\images\jaren_i_paren.jpg
+wwwroot\css\styles.css
+C:\Users\vano2\source\repos\MyPetProject\MyPetProject\wwwroot\html\info.html
+C:\Users\vano2\source\repos\MyPetProject\MyPetProject\wwwroot\html\main.html
+C:\Users\vano2\source\repos\MyPetProject\MyPetProject\wwwroot\css\styles.css
