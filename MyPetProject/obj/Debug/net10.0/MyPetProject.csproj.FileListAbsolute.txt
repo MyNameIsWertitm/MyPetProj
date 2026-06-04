@@ -30,5 +30,5 @@ C:\Users\vano2\source\repos\MyPetProject\MyPetProject\obj\Debug\net10.0\MyPetPro
 C:\Users\vano2\source\repos\MyPetProject\MyPetProject\obj\Debug\net10.0\ref\MyPetProject.dll
 C:\Users\vano2\source\repos\MyPetProject\MyPetProject\bin\Debug\net10.0\MyPetProject.staticwebassets.runtime.json
 C:\Users\vano2\source\repos\MyPetProject\MyPetProject\obj\Debug\net10.0\compressed\hep5xnddzu-{0}-n0hkfoczyz-n0hkfoczyz.gz
-C:\Users\vano2\source\repos\MyPetProject\MyPetProject\obj\Debug\net10.0\compressed\izvsv6icuf-{0}-vs3rldxd5q-vs3rldxd5q.gz
 C:\Users\vano2\source\repos\MyPetProject\MyPetProject\obj\Debug\net10.0\compressed\lbyto3tjk6-{0}-gunoct1jcr-gunoct1jcr.gz
+C:\Users\vano2\source\repos\MyPetProject\MyPetProject\obj\Debug\net10.0\compressed\izvsv6icuf-{0}-vt9xg1j7rc-vt9xg1j7rc.gz

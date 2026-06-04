@@ -2,10 +2,9 @@
 
 # Этот этап используется при запуске из VS в быстром режиме (по умолчанию для конфигурации отладки)
 FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS base
+ENV ASPNETCORE_ENVIRONMENT=Production
 USER $APP_UID
 WORKDIR /app
-# Добавлена следующая строка
-COPY app/ /app/
 EXPOSE 8080
 EXPOSE 8081
 

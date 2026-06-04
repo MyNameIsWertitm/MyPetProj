@@ -11,6 +11,7 @@ namespace MyPetProject
             app.UseStaticFiles();
 
             app.MapGet("/", () => { return Results.Redirect("/html/main.html"); });
+            app.MapGet("/sd", () => { return app.Environment.EnvironmentName; });
 
             app.Run();
         }
